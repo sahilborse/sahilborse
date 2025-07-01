@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sahil+Borse;Full+Stack+Developer;Always+Learning+New+Tech;Let's+Build+Something+Cool!&font=Fira+Code&center=true&width=380&height=50&color=1f6feb&vCenter=true&pause=1000&size=22" />
+</p>
 
 ## Contact with Me
 
@@ -7,6 +10,17 @@
 - CV: [cv.sahilborse.vasudev](https://drive.google.com/file/d/18kU6MlfX1ZoYD5RKKwBnMCflTIo_9JmV/view?usp=sharing)
 - portfoilio: [sahilborse.dev](https://vasudev-resume.vercel.app/)
 
+### 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![AI/ML](https://img.shields.io/badge/-AI%2FML-272D63?style=flat&logo=openai&logoColor=white)
 
 
 
