@@ -76,7 +76,7 @@ He is currently learning about Decentralized Finance, LLM integration, and CI/CD
 <!-- Some Cards -->
 [![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilborse&show_icons=true&theme=github_dark)](https://github.com/sahilborse)
 
-📽️ [Watch Demo](https://youtu.be/pmSSTH5wkBA)
+📽️ [Watch Project Video](https://youtu.be/pmSSTH5wkBA)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sahilborse&color=blue&style=flat)
 
