@@ -77,6 +77,8 @@ He is currently learning about Decentralized Finance, LLM integration, and CI/CD
 <!-- Some Cards -->
 [![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilborse&show_icons=true&theme=github_dark)](https://github.com/sahilborse)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahilborse&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
