@@ -24,7 +24,7 @@ He is currently learning about Decentralized Finance, LLM integration, and CI/CD
 
 ### 🌿 GeeksforGeeks Stats
 
-[![GFG Badge](https://img.shields.io/badge/GFG_Problems_Solved-450%2B-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/sahil123/practice/)
+[![GFG Badge](https://img.shields.io/badge/GFG_Problems_Solved-250%2B-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/sahilborsmw7n/practice/)
 
 
 
