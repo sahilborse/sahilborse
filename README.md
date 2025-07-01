@@ -2,3 +2,4 @@
 Profile repo
 
 welcome to my profile
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=transparent)
