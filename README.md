@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sahil+Borse;Full+Stack+Developer;Always+Learning+New+Tech;Let's+Build+Something+Cool!&font=Fira+Code&center=true&width=380&height=50&color=1f6feb&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sahil+Borse;Software+Developer;Always+Learning+New+Tech;Let's+Build+Something+Cool!&font=Fira+Code&center=true&width=380&height=50&color=1f6feb&vCenter=true&pause=1000&size=22" />
 </p>
 
 ## Contact with Me
